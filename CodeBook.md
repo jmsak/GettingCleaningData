@@ -76,6 +76,25 @@ frequencyBodyBodyGyroscopeMagStd           |  mean of fBodyBodyGyroMag-std()
 frequencyBodyBodyGyroscopeJerkMagMean      |  mean of fBodyBodyGyroJerkMag-mean()
 frequencyBodyBodyGyroscopeJerkMagStd       |  mean of fBodyBodyGyroJerkMag-std()
 
+### Process
+
+The script `run_analysis.R` performs the following process to clean up the data
+and create tiny data sets:
+
+1. Merge the training and test sets to create one data set.
+
+2. Reads `features.txt` and uses only the measurements on the mean and standard
+   deviation for each measurement. 
+
+3. Reads `activity_labels.txt` and applies human readable activity names to
+   name the activities in the data set.
+
+4. Labels the data set with descriptive names. (Names are converted to lower
+   case; underscores and brackets are removed.)
+
+5. Merges the features with activity labels and subject IDs. The result is
+   saved as `tidyData.txt`.
+
 __________________________________________________________________________
 Copied from readme.txt in original dataset.
 
