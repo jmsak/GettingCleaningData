@@ -1,6 +1,6 @@
 #Code Book
 
-From ReadMe File
+Copied from readme.txt in original dataset.
 
  
 Human Activity Recognition Using Smartphones Dataset
