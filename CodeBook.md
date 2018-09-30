@@ -1,4 +1,4 @@
-#Code Book
+Code Book
 
 Copied from readme.txt in original dataset.
 
