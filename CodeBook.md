@@ -8,8 +8,7 @@ dtTidy and dtFeat
 Variable                                   | Comments
 -------------------------------------------|-----------
 Subject                                    |  volunteer (1-30)
-ActivityName                               |  LAYING,SITTING,STANDING,WALKING,
-                                           |   WALKING_DOWNSTAIRS,WALKING_UPSTAIRS
+ActivityName                               |  LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS
 timeBodyAccelerometerMeanX                 |  mean of tBodyAcc-mean()-X
 timeBodyAccelerometerMeanY                 |  mean of tBodyAcc-mean()-Y
 timeBodyAccelerometerMeanZ                 |  mean of tBodyAcc-mean()-Z
