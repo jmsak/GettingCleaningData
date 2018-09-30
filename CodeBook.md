@@ -7,8 +7,8 @@
 From dtTidy
  
 
-Variable                                
-----------------------------------------
+Variables                   
+---------------------------
 Subject                                 
 ActivityName                            
 timeBodyAccelerometerMeanX              
