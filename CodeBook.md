@@ -91,7 +91,7 @@ frequencyBodyBodyGyroscopeJerkMagStd
 4. Labels the data set with descriptive names. 
 
 5. Merges the features with activity labels and subject IDs. Save the results 
-   in `tidyData.txt'.
+   in `tidyData.txt`.
 
 __________________________________________________________________________
 Copied from readme.txt in original dataset.
